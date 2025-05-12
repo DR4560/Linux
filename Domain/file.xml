@@ -1,0 +1,25 @@
+<domain type="kvm">
+  <name>quickstart1</name>
+  <memory unit="GiB">4</memory>
+  <vcpu>2</vcpu>
+  <os>
+    <type>hvm</type>
+  </os>
+  <iothreads>1</iothreads>
+  <on_crash>preserve</on_crash>
+  <devices>
+    <disk type="block" device="disk">
+      <driver name="qemu" type="qcow2" cache="none" iothread="1" io="native"/>
+      <source dev="/dev/mapper/36005076305ffc1ae00000000000020d3"/>
+      <target dev="vda" bus="virtio"/>
+      <boot order="1"/>
+    </disk>
+    <interface type="direct">
+       <source dev="bond0" mode="bridge"/>
+    </interface>
+    <console type="pty">
+      <target type="sclp"/>
+    </console>
+    <memballoon model="none"/>
+  </devices>
+</domain>

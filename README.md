@@ -2,7 +2,7 @@
 Domains , etc.<!-- описание репозитория -->
 
 
-<!--Блок информации о репозитории в бейджах-->
+<!--Блок информации о репозитории в бейджах
 ![Static Badge](https://img.shields.io/badge/OkulusDev-Oxygen-Oxygen)
 ![GitHub top language](https://img.shields.io/github/languages/top/OkulusDev/Oxygen)
 ![GitHub](https://img.shields.io/github/license/OkulusDev/Oxygen)
@@ -10,7 +10,7 @@ Domains , etc.<!-- описание репозитория -->
 ![GitHub issues](https://img.shields.io/github/issues/OkulusDev/Oxygen)
 
 ![Logotype](./docs/wall.jpg)
-
+-->
 <!--Установка-->
 ## Установка (Linux)
 You must have Linux installed [ website]([(https://ubuntu.com/)])

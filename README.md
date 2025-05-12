@@ -51,20 +51,20 @@ Check the oficial website
 
 <!--зависимости-->
 ## Requirements
-Эта программа зависит от интепретатора Python версии 3.7 или выше, PIP 23.2.1 или выше. Если вы заметили, что он данное ПО можно запустить на версии ниже, или он не работает на какой-либо версии, то напишите в [поддержку](https://github.com/OkulusDev/Oxygen#поддержка)
+KVM machine [here]([[./docs/ru/index.md](https://docs.kernel.org/](https://www.ibm.com/docs/en/linux-on-systems?topic=linuxonibm/com.ibm.linux.z.ldvq/ldvq_kvm_quick_start.html]]). 
 
 <!--описание коммитов-->
 ## Описание коммитов
-| Название | Описание                                                        |
+| Name     | Description                                                     |
 |----------|-----------------------------------------------------------------|
-| build	   | Сборка проекта или изменения внешних зависимостей               |
-| sec      | Безопасность, уязвимости                                        |
-| ci       | Настройка CI и работа со скриптами                              |
-| docs	   | Обновление документации                                         |
-| feat	   | Добавление нового функционала                                   |
-| fix	   | Исправление ошибок                                              |
-| perf	   | Изменения направленные на улучшение производительности          |
-| refactor | Правки кода без исправления ошибок или добавления новых функций |
-| revert   | Откат на предыдущие коммиты                                     |
-| style	   | Правки по кодстайлу (табы, отступы, точки, запятые и т.д.)      |
-| test	   | Добавление тестов                                               |
+| build    | Building a project or changing external dependencies            |
+| sec      | Security, vulnerabilities                                       |
+| ci       | Configuring CI and working with scripts                         |
+| docs     | Updating documentation                                          |
+| feat     | Adding new functionality                                        |
+| fix      | Error correction                                                |
+| perf     | Changes aimed at improving performance                          |
+| refactor | Code edits without correcting errors or adding new features     |
+| revert   | Rollback to previous commits                                    |
+| style    | Code style edits (tabs, indents, dots, commas, etc.)            |
+| test     | Adding tests                                                    |

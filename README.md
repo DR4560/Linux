@@ -12,8 +12,8 @@ Domains , etc.<!-- описание репозитория -->
 ![Logotype](./docs/wall.jpg)
 -->
 <!--Установка-->
-## Установка (Linux)
-You must have Linux installed [ website]([(https://ubuntu.com/)])
+## Installing (Linux)
+You must have Linux on Z and LinuxONE installed [ website]([(https://ubuntu.com/)])
 
 1. Location 
 

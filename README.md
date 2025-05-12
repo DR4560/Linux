@@ -54,7 +54,7 @@ Check the oficial website
 KVM machine [here]([[./docs/ru/index.md](https://docs.kernel.org/](https://www.ibm.com/docs/en/linux-on-systems?topic=linuxonibm/com.ibm.linux.z.ldvq/ldvq_kvm_quick_start.html]]). 
 
 <!--описание коммитов-->
-## Описание коммитов
+## Commits describtion
 | Name     | Description                                                     |
 |----------|-----------------------------------------------------------------|
 | build    | Building a project or changing external dependencies            |

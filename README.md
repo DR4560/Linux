@@ -41,7 +41,7 @@ You must have Linux on Z and LinuxONE installed [ website]([(https://ubuntu.com/
 
 <!--Пользовательская документация-->
 ## Docs
-You can get it [here]([./docs/ru/index.md](https://docs.kernel.org/)).
+You can get it [here]([./docs/ru/index.md](https://docs.kernel.org/]).
 
 [Releases]: https://ubuntu.com/
 
